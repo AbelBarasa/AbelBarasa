@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbelBarasa
-- 👀 I’m interested in CyberSecurity 
+- 👀 I’m interested in Data Analytics, Data Viz 
 - 🌱 I’m currently learning Artificial Intelligence and Machine learning
 - 💞️ I’m looking to collaborate on any projects that will help me improve my skill
 - 📫 How to reach me Twitter: @AbelMulongo_
